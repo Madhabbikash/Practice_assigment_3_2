@@ -4,9 +4,13 @@ author: "Madhab"
 date: "2023-05-20"
 output: html_document
 ---
+<<<<<<< HEAD
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 I am workihn on the main branch.
+=======
+I am working on the branch 2
+>>>>>>> branch2
